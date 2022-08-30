@@ -5,7 +5,7 @@ search property by filter, and more.
 Technologies used:
 Next js framework, Chakra-UI, Axios, and React-icons.
 
-**[Live Preview](real-estate-app-taupe.vercel.app/)**
+**[Live Preview](https://real-estate-app-taupe.vercel.app/)**
 
 Screens : 
 
